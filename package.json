@@ -1,0 +1,26 @@
+{
+  "name": "ts-ioc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendaoshuai66/ts-ioc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendaoshuai66/ts-ioc/issues"
+  },
+  "homepage": "https://github.com/wendaoshuai66/ts-ioc#readme",
+  "dependencies": {
+    "inversify": "^5.1.1",
+    "inversify-binding-decorators": "^4.0.0",
+    "inversify-koa-utils": "^1.0.0",
+    "reflect-metadata": "^0.1.13"
+  }
+}
